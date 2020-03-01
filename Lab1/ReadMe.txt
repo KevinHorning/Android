@@ -1,0 +1,2 @@
+This is a very basic Android App that allows you to type your name, click a button, and have the message "Hello + your name" appear. 
+The app can be run by opening the application in Android Studio and runing it on any virtual device. 
